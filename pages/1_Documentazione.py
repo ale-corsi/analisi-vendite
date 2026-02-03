@@ -252,3 +252,8 @@ with st.expander("Posso caricare file con formati diversi?"):
 
 st.markdown("---")
 st.caption("Strumento sviluppato per l'analisi delle performance di vendita")
+
+# Footer sidebar
+with st.sidebar:
+    st.markdown("---")
+    st.caption("Made with 🤍 🩵 in the Ancient Land of Liberty")

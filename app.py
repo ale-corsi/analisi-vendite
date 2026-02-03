@@ -622,3 +622,8 @@ else:
     - **Trend Temporali**: visualizza come cambiano le performance nel tempo
     - **Confronto Periodi**: identifica tag in crescita o in calo
     """)
+
+# Footer sidebar
+with st.sidebar:
+    st.markdown("---")
+    st.caption("Made with 🤍 🩵 in the Ancient Land of Liberty")
